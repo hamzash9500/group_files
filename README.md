@@ -11,7 +11,7 @@ Sample:
 
 
 # How to run the script:
-All you have to pull the repo to your machine and enter to the group_files directory and run bash groupfiles.sh
+All you have to pull the repo to your machine and enter to the group_files directory and run groupfiles.sh script.
 
 ###### $ bash groupfiles.sh
 
